@@ -7,7 +7,7 @@ This repository contains analysis on the Double Injury Model, along with gene se
 
 **Project Goals:**
 
-To integrate transcriptomics and proteomics, gene set enrichment analysis will be used to extract genes per stage of the double injury and identify relevant pathways that correspond to the respective genes. After, relevant proteins and drugs from reactome will also be extracted, creating multi-omics integration. 
+To integrate transcriptomics and proteomics, gene set enrichment analysis will be used to extract genes per stage of the double injury and identify relevant pathways that correspond to the respective genes. After, relevant proteins and drugs from reactome will also be extracted, integrating multi-omics. 
 
 **Relevant Literature:**
 
